@@ -14,9 +14,13 @@ The application will be invoked by using the following command:
 node index.js
 ```
 
-Because this application won’t be deployed, here is a link to a walk-thru video: https://drive.google.com/file/d/13tJzp_GT80IX7jX7boW3MRWPYnWdXyZM/view
+Because this application won’t be deployed, here is a link to a walk-thru video:
+
+<https://drive.google.com/file/d/13tJzp_GT80IX7jX7boW3MRWPYnWdXyZM/view
 
 <iframe src="https://drive.google.com/file/d/13tJzp_GT80IX7jX7boW3MRWPYnWdXyZM/preview" width="640" height="480"></iframe>
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## User Story
 
